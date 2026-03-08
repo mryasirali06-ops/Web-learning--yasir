@@ -1,2 +1,14 @@
-# Web-learning--yasir
-My first website 
+# Hi, I'm Yasir 👋
+
+💻 Beginner Web Developer  
+🌱 Currently learning Web Development  
+
+## 🚀 Skills
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,github" />
+</p>
+
+## 🎯 Goals
+- Learn HTML, CSS, JavaScript
+- Build my own websites
+- Become a professional web developer
